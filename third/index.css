@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+}
+
+.first {
+  background: rgb(179, 178, 178);
+  height: 110px;
+  width: 100%;
+}
+.box {
+  height: 90px;
+  width: 90px;
+  background-color: rgb(25, 159, 221);
+  display: inline-block;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+.second {
+  background: white;
+  height: 260px;
+  width: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  padding: 10px;
+  margin-left: 200px;
+  text-align: left;
+}
+.third {
+  background: rgb(25, 159, 221);
+  height: 110px;
+  width: 100%;
+}
+.fourth {
+  background: rgb(16, 235, 216);
+  height: 110px;
+  width: 100%;
+}
+.fifth {
+  background: rgb(107, 218, 107);
+  height: 110px;
+  width: 100%;
+}
+.sixth {
+  background: yellow;
+  height: 110px;
+  width: 100%;
+}
